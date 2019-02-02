@@ -25,7 +25,7 @@
     "ethereumjs-block": "^1.2.2",
     "ethereumjs-tx": "^1.2.0",
     "ethereumjs-util": "^5.1.5",
-    "ethereumjs-vm": "^2.3.4",
+    "ethereumjs-vm": "git://github.com/wighawag/ethereumjs-vm.git#0f10fcfdbc55ceadbff6adeb54bca6df393ef62f",
     "json-rpc-error": "^2.0.0",
     "json-stable-stringify": "^1.0.1",
     "promise-to-callback": "^1.0.0",
